@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684413855424",
+    "project_id": "budgetari-f24ac",
+    "storage_bucket": "budgetari-f24ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684413855424:android:ca8eafc65fc7e2f5062f25",
+        "android_client_info": {
+          "package_name": "com.example.budgetari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684413855424-ashhknchvcd8nbmjcg94q30v58cvd89u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8Pko1dqiNCwGWz5qjdBsZmwGxcKriiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684413855424-ashhknchvcd8nbmjcg94q30v58cvd89u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
